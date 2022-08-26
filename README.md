@@ -1,5 +1,4 @@
 # Realsense projects
-***  
 
 [![realsense examples](https://img.shields.io/badge/realsense-examples-red)](https://github.com/IntelRealSense/librealsense/tree/master/wrappers/python/examples)
 
